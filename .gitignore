@@ -1,0 +1,7 @@
+.idea
+cmake-build-debug
+Core/cmake-build-debug
+Core/.idea
+Core/build
+Core/CMakeLists.txt
+Core/enhanced_credit_card_transactions.csv
